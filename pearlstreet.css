@@ -15,13 +15,13 @@
 }
 
 html {
-  background:#eee;
 }
 
 body {
+  background:#f8f8f8;
   font-family: 'League Spartan';
   width:100%;
-  margin:40px;
+  margin:50px;
   color:#333;
 }
 
