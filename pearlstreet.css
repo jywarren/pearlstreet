@@ -5,15 +5,28 @@
 
 @font-face {
     font-family: 'League Spartan';
-    src: url('bower_components/leaguespartan/_webfonts/leaguespartan-bold.eot');
-    src: url('bower_components/leaguespartan/_webfonts/leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
-         url('bower_components/leaguespartan/_webfonts/leaguespartan-bold.woff') format('woff'),
-         url('bower_components/leaguespartan/_webfonts/leaguespartan-bold.ttf') format('truetype'),
-         url('bower_components/leaguespartan/_webfonts/leaguespartan-bold.svg#leaguespartan') format('svg');
+    src: url('bower_components/league-spartan/_webfonts/leaguespartan-bold.eot');
+    src: url('bower_components/league-spartan/_webfonts/leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+         url('bower_components/league-spartan/_webfonts/leaguespartan-bold.woff') format('woff'),
+         url('bower_components/league-spartan/_webfonts/leaguespartan-bold.ttf') format('truetype'),
+         url('bower_components/league-spartan/_webfonts/leaguespartan-bold.svg#leaguespartan') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
+html {
+  background:#eee;
+}
+
 body {
   font-family: 'League Spartan';
+  width:100%;
+  margin:40px;
+  color:#333;
 }
+
+.red {
+  color:#d00;
+}
+
+
