@@ -1,1 +1,6 @@
-include: 'bower_components/league-spartan/_webfonts/'
+include: 
+- bower_components/league-spartan/_webfonts/leaguespartan-bold.eot
+- bower_components/league-spartan/_webfonts/leaguespartan-bold.eot
+- bower_components/league-spartan/_webfonts/leaguespartan-bold.woff
+- bower_components/league-spartan/_webfonts/leaguespartan-bold.ttf
+- bower_components/league-spartan/_webfonts/leaguespartan-bold.svg
