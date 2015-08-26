@@ -17,6 +17,10 @@
 html {
 }
 
+h1 {
+    font-size: 5em;
+}
+
 body {
   background:#f8f8f8;
   font-family: 'League Spartan';
